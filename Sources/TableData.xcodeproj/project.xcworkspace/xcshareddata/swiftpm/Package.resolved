@@ -1,0 +1,15 @@
+{
+  "originHash" : "afc780ee1954f25a8f025cacdb0321e8350517ac258d4ea7212536ca17fbca12",
+  "pins" : [
+    {
+      "identity" : "swiftessentials",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/codemostUK/SwiftEssentials.git",
+      "state" : {
+        "revision" : "c1b055cdba92df97149e44b7f58f46a03dc07810",
+        "version" : "1.0.9"
+      }
+    }
+  ],
+  "version" : 3
+}
